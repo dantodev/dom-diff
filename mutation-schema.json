@@ -1,0 +1,14 @@
+{
+  "r": [124,153,533],
+  "am": [
+    { "id": 343, "at": { "class": "item", "data-hover": null } }
+  ],
+  "t": [
+    { "id": 432, "tC": "Lorem Ipsum" }
+  ],
+  "cN": [
+    { "id": 785, "pN": 124, "nS": 125, "nT": "div", "at": { "class": "btn" } },
+    { "id": 786, "pN": 785, "nS": null, "nT": "i", "at": { "class": "mdi mdi-home" } },
+    { "id": 787, "pN": 785, "nS": 786, "tC": "Home" }
+  ]
+}
